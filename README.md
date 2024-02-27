@@ -1,1 +1,1 @@
-# Research-on-AI-for-Alzheimer-s-Disease
+# Research on AI for Alzheimer's Disease
