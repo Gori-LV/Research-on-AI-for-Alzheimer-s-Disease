@@ -19,11 +19,6 @@ Articles Related to AI4AD
 3. Artificial intelligence for diagnostic and prognostic neuroimaging in dementia: A systematic review [[article](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.13412)]
 4. Artificial intelligence for biomarker discovery in Alzheimer's disease and dementia [[article](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.13390)]
 
-### Alzheimer's & Dementia
-Articles Related to AI4AD
-1. A deep learning model for early prediction of Alzheimer's disease dementia based on hippocampal magnetic resonance imaging data [[article](https://alz-journals.onlinelibrary.wiley.com/doi/10.1016/j.jalz.2019.02.007)]
-
-
 ## :calendar: 2022
 
 
@@ -41,3 +36,8 @@ Articles Related to AI4AD
 ### Nature Communications
 Articles Related to AI4AD
 1. Interpretable classification of Alzheimer’s disease pathologies with a convolutional neural network pipeline [[article](https://www.nature.com/articles/s41467-019-10212-1)]
+
+
+### Alzheimer's & Dementia
+Articles Related to AI4AD
+1. A deep learning model for early prediction of Alzheimer's disease dementia based on hippocampal magnetic resonance imaging data [[article](https://alz-journals.onlinelibrary.wiley.com/doi/10.1016/j.jalz.2019.02.007)]
