@@ -1,7 +1,7 @@
 # Research on AI for Alzheimer's Disease
 
 > Note: journal articles in A&D, Nature Journal series
-> * To be updated.
+> To be updated.
 
 
 ## :calendar: 2024
