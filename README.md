@@ -3,7 +3,7 @@
 > Note: journal articles in A&D, Nature Journal series
 > * To be updated.
 
-## 2019
+## :calendar: 2019
 
 ### Nature Communications
 Articles Related to AI4AD
