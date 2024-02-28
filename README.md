@@ -1,6 +1,6 @@
 # Research on AI for Alzheimer's Disease
 
-## Journal articles in A&D, Nature Journal series
+## :pill: Research works from life science community.
 > To be updated.
 
 ### :calendar: 2024
@@ -42,5 +42,10 @@ Articles Related to AI4AD
 1. A deep learning model for early prediction of Alzheimer's disease dementia based on hippocampal magnetic resonance imaging data [[article](https://alz-journals.onlinelibrary.wiley.com/doi/10.1016/j.jalz.2019.02.007)]
 
 
-## Journal articles & conference papers realted to AI4AD from CS community.
+## :computer: Research works from CS community.
 > To be updated.
+ - Comparison Between Explainable AI Algorithms for Alzheimer’s Disease Prediction Using EfficientNet Models (ICBI'23) [[paper](https://link.springer.com/chapter/10.1007/978-3-031-43075-6_31)]
+ - Explainable Artificial Intelligence in Alzheimer’s Disease Classification: A Systematic Review (Cognitive Computation'23<sub>interdisciplinary journal</sub>) [[article](https://link.springer.com/article/10.1007/s12559-023-10192-x)]
+ - Alzheimer's Disease Analysis using Explainable Artificial Intelligence (XAI) (ICSCDS'22) [[paper](https://ieeexplore.ieee.org/abstract/document/9760858)]
+ - Exploring Alzheimer's Disease Prediction with XAI in various Neural Network Models (TENCON'21) [[paper](https://ieeexplore.ieee.org/abstract/document/9707468)]
+ - Alzheimer’s Patient Analysis Using Image and Gene Expression Data and Explainable-AI to Present Associated Genes (Transactions on Instrumentation and Measurement'21) [[paper](https://ieeexplore.ieee.org/abstract/document/9521165)]
