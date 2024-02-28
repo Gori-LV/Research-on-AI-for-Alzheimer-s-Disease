@@ -1,6 +1,6 @@
 # Research on AI for Alzheimer's Disease
 
-> Note: journal articles in A&D, Nature Journal series
+## Journal articles in A&D, Nature Journal series
 > To be updated.
 
 ### :calendar: 2024
@@ -42,5 +42,5 @@ Articles Related to AI4AD
 1. A deep learning model for early prediction of Alzheimer's disease dementia based on hippocampal magnetic resonance imaging data [[article](https://alz-journals.onlinelibrary.wiley.com/doi/10.1016/j.jalz.2019.02.007)]
 
 
-> Note: journal articles & conference papers realted to AI4AD from CS community.
+## Journal articles & conference papers realted to AI4AD from CS community.
 > To be updated.
