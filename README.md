@@ -1,6 +1,6 @@
 # Research on AI for Alzheimer's Disease
 
-## :pill: from life science community.
+## From life science community :pill:
 > * To be updated.
 
 ## :calendar: 2024
@@ -42,7 +42,7 @@
 1. A deep learning model for early prediction of Alzheimer's disease dementia based on hippocampal magnetic resonance imaging data [[article](https://alz-journals.onlinelibrary.wiley.com/doi/10.1016/j.jalz.2019.02.007)]
 
 
-## :computer: from CS community.
+## From CS community :computer:
 > * To be updated.
  - Comparison Between Explainable AI Algorithms for Alzheimer’s Disease Prediction Using EfficientNet Models (ICBI'23) [[paper](https://link.springer.com/chapter/10.1007/978-3-031-43075-6_31)]
  - Explainable Artificial Intelligence in Alzheimer’s Disease Classification: A Systematic Review (Cognitive Computation'23<sub>interdisciplinary journal</sub>) [[article](https://link.springer.com/article/10.1007/s12559-023-10192-x)]
