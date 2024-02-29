@@ -1,5 +1,5 @@
 # Research on AI for Alzheimer's Disease
-> :page_facing_up::review
+> :page_facing_up:: review
 ## From life science community :pill:
 > * _IF_ >6, to be updated.
 
@@ -29,13 +29,13 @@
 1. Unified AI framework to uncover deep interrelationships between gene expression and Alzheimer’s disease neuropathologies [[article](https://www.nature.com/articles/s41467-021-25680-7)]
 2. A machine learning approach to brain epigenetic analysis reveals kinases associated with Alzheimer’s disease [[article](https://www.nature.com/articles/s41467-021-24710-8)]
 3. Machine learning identifies candidates for drug repurposing in Alzheimer’s disease [[article](https://www.nature.com/articles/s41467-021-21330-0)]
-
+4. A deep learning framework identifies dimensional representations of Alzheimer’s Disease from brain structure [[article](https://www.nature.com/articles/s41467-021-26703-z)] {**disease subtypes using clustering in GAN**, **neuroimaging**}
 
 ## 2020 :calendar:
 
 ### :orange_book: Nature Reviews Neurology
 > Articles Related to AI4AD
-1. A deep learning framework identifies dimensional representations of Alzheimer’s Disease from brain structure [[article](https://www.nature.com/articles/s41467-021-26703-z)] :page_facing_up:
+1. Applications of machine learning to diagnosis and treatment of neurodegenerative diseases [[article](https://www.nature.com/articles/s41582-020-0377-8)] :page_facing_up:
 
 
 ## 2019 :calendar:
@@ -57,8 +57,3 @@
  - Alzheimer's Disease Analysis using Explainable Artificial Intelligence (XAI) (ICSCDS'22) [[paper](https://ieeexplore.ieee.org/abstract/document/9760858)]
  - Exploring Alzheimer's Disease Prediction with XAI in various Neural Network Models (TENCON'21) [[paper](https://ieeexplore.ieee.org/abstract/document/9707468)]
  - Alzheimer’s Patient Analysis Using Image and Gene Expression Data and Explainable-AI to Present Associated Genes (Transactions on Instrumentation and Measurement'21) [[paper](https://ieeexplore.ieee.org/abstract/document/9521165)]
-
-## :bulb: Potential topics for AI4AD
-### Biomarker panel selection
-- Large-scale plasma proteomic profiling identifies a high-performance biomarker panel for Alzheimer’s disease screening and staging (Alzheimer's & Dementia'20) [[article](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.12369)]
-- CSF proteome profiling across the Alzheimer’s disease spectrum reflects the multifactorial nature of the disease and identifies specific biomarker panels (Nature Aging'22) [[article](https://www.nature.com/articles/s43587-022-00300-1)]
