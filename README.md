@@ -19,10 +19,9 @@
 ### :green_book: Alzheimer's & Dementia
 > Articles Related to AI4AD
 1. Artificial intelligence for biomarker discovery in Alzheimer's disease and dementia [[article](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.13390)]
-
-> Articles Related to AI4dementia
-1. Artificial intelligence for dementia prevention [[article](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.13463)]
-2. Artificial intelligence for diagnostic and prognostic neuroimaging in dementia: A systematic review [[article](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.13412)] :page_facing_up:
+2. Artificial intelligence for dementia prevention [[article](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.13463)]
+3. Artificial intelligence for diagnostic and prognostic neuroimaging in dementia: A systematic review [[article](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.13412)] :page_facing_up:
+4. Artificial intelligence for dementia research methods optimization [[article](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.13441)]
 
 ## 2022 :calendar:
 
