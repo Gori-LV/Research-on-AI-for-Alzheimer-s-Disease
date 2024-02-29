@@ -21,7 +21,13 @@
 1. Artificial intelligence for biomarker discovery in Alzheimer's disease and dementia [[article](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.13390)]
 2. Artificial intelligence for dementia prevention [[article](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.13463)]
 3. Artificial intelligence for diagnostic and prognostic neuroimaging in dementia: A systematic review [[article](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.13412)] :page_facing_up:
-4. Artificial intelligence for dementia research methods optimization [[article](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.13441)]
+4. Artificial intelligence for dementia research methods optimization [[article](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.13441)] :page_facing_up:
+5. Alzheimer’s dementia early diagnosis, characterization, prognosis and treatment decision via a software-as-medical device with an artificial intelligent agent [[article](https://alz-journals.onlinelibrary.wiley.com/doi/abs/10.1002/alz.075674)]
+6. Artificial intelligence for dementia genetics and omics [[article](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.13427)] :page_facing_up:
+7. Artificial intelligence for dementia—Applied models and digital health [[article](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.13391)] :page_facing_up:
+8. Artificial neural network visualization methods reveal diagnostically relevant brain regions to detect Alzheimer’s disease: The first step towards comprehensive artificial intelligence [[article](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.052083)] {**CNN**, **visualization**}
+9. Artificial intelligence for dementia drug discovery and trials optimization [[article](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.13428)] :page_facing_up:
+10. Artificial intelligence for neurodegenerative experimental models [[article](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.13479)] :page_facing_up:
 
 ## 2022 :calendar:
 
