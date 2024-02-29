@@ -34,6 +34,9 @@
 
 ## 2020 :calendar:
 
+### :green_book: Alzheimer's & Dementia
+> Potential topic for AI4AD
+1. Large-scale plasma proteomic profiling identifies a high-performance biomarker panel for Alzheimer’s disease screening and staging [[article](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.12369)]
 
 
 ## 2019 :calendar:
