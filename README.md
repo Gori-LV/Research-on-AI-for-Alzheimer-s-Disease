@@ -44,10 +44,10 @@
 ## 2021 :calendar:
 ### :closed_book: Nature Communications
 > Articles Related to AI4AD
-1. Unified AI framework to uncover deep interrelationships between gene expression and Alzheimer’s disease neuropathologies [[article](https://www.nature.com/articles/s41467-021-25680-7)]
+1. Unified AI framework to uncover deep interrelationships between gene expression and Alzheimer’s disease neuropathologies [[article](https://www.nature.com/articles/s41467-021-25680-7)] :bookmark:
 2. A machine learning approach to brain epigenetic analysis reveals kinases associated with Alzheimer’s disease [[article](https://www.nature.com/articles/s41467-021-24710-8)]
 3. Machine learning identifies candidates for drug repurposing in Alzheimer’s disease [[article](https://www.nature.com/articles/s41467-021-21330-0)]
-4. A deep learning framework identifies dimensional representations of Alzheimer’s Disease from brain structure [[article](https://www.nature.com/articles/s41467-021-26703-z)] {**disease subtypes using clustering in GAN**, neuroimaging}
+4. A deep learning framework identifies dimensional representations of Alzheimer’s Disease from brain structure [[article](https://www.nature.com/articles/s41467-021-26703-z)] {**disease subtypes using clustering in GAN**, neuroimaging} :bookmark:
 
 ## 2020 :calendar:
 
