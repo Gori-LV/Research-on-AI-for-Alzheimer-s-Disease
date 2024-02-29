@@ -23,21 +23,10 @@
 1. Artificial intelligence for dementia prevention [[article](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.13463)]
 2. Artificial intelligence for diagnostic and prognostic neuroimaging in dementia: A systematic review [[article](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.13412)]
 
-
-## 2022 :calendar:
-
-
 ## 2021 :calendar:
 ### :closed_book: Nature Communications
 > Articles Related to AI4AD
 1. Unified AI framework to uncover deep interrelationships between gene expression and Alzheimer’s disease neuropathologies [[article](https://www.nature.com/articles/s41467-021-25680-7)]
-
-## 2020 :calendar:
-
-### :green_book: Alzheimer's & Dementia
-> Potential topic for AI4AD
-1. Large-scale plasma proteomic profiling identifies a high-performance biomarker panel for Alzheimer’s disease screening and staging [[article](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.12369)]
-
 
 ## 2019 :calendar:
 
@@ -58,3 +47,8 @@
  - Alzheimer's Disease Analysis using Explainable Artificial Intelligence (XAI) (ICSCDS'22) [[paper](https://ieeexplore.ieee.org/abstract/document/9760858)]
  - Exploring Alzheimer's Disease Prediction with XAI in various Neural Network Models (TENCON'21) [[paper](https://ieeexplore.ieee.org/abstract/document/9707468)]
  - Alzheimer’s Patient Analysis Using Image and Gene Expression Data and Explainable-AI to Present Associated Genes (Transactions on Instrumentation and Measurement'21) [[paper](https://ieeexplore.ieee.org/abstract/document/9521165)]
+
+## Potential topic for AI4AD
+### Biomarker panel selection
+- Large-scale plasma proteomic profiling identifies a high-performance biomarker panel for Alzheimer’s disease screening and staging (Alzheimer's & Dementia'20) [[article](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.12369)]
+- CSF proteome profiling across the Alzheimer’s disease spectrum reflects the multifactorial nature of the disease and identifies specific biomarker panels (Nature Aging'22) [[article](https://www.nature.com/articles/s43587-022-00300-1)]
