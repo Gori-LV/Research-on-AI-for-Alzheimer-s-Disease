@@ -27,6 +27,7 @@
 ### :closed_book: Nature Communications
 > Articles Related to AI4AD
 1. Unified AI framework to uncover deep interrelationships between gene expression and Alzheimer’s disease neuropathologies [[article](https://www.nature.com/articles/s41467-021-25680-7)]
+2. A machine learning approach to brain epigenetic analysis reveals kinases associated with Alzheimer’s disease [[article](https://www.nature.com/articles/s41467-021-24710-8)]
 
 ## 2019 :calendar:
 
@@ -48,7 +49,7 @@
  - Exploring Alzheimer's Disease Prediction with XAI in various Neural Network Models (TENCON'21) [[paper](https://ieeexplore.ieee.org/abstract/document/9707468)]
  - Alzheimer’s Patient Analysis Using Image and Gene Expression Data and Explainable-AI to Present Associated Genes (Transactions on Instrumentation and Measurement'21) [[paper](https://ieeexplore.ieee.org/abstract/document/9521165)]
 
-## :bulb: Potential topic for AI4AD
+## :bulb: Potential topics for AI4AD
 ### Biomarker panel selection
 - Large-scale plasma proteomic profiling identifies a high-performance biomarker panel for Alzheimer’s disease screening and staging (Alzheimer's & Dementia'20) [[article](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.12369)]
 - CSF proteome profiling across the Alzheimer’s disease spectrum reflects the multifactorial nature of the disease and identifies specific biomarker panels (Nature Aging'22) [[article](https://www.nature.com/articles/s43587-022-00300-1)]
