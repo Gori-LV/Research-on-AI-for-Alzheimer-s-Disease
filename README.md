@@ -1,5 +1,6 @@
 # Research on AI for Alzheimer's Disease
-> :page_facing_up:: review
+> :page_facing_up:: review, :unlock:: open data
+
 ## From life science community :pill:
 > * _IF_ >6, to be updated.
 
@@ -23,20 +24,40 @@
 1. Artificial intelligence for dementia prevention [[article](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.13463)]
 2. Artificial intelligence for diagnostic and prognostic neuroimaging in dementia: A systematic review [[article](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.13412)] :page_facing_up:
 
+## 2022 :calendar:
+
+### :notebook_with_decorative_cover: npj Digital Medicine
+1. A high-generalizability machine learning framework for predicting the progression of Alzheimer’s disease using limited data [[article](https://www.nature.com/articles/s41746-022-00577-x)] {**hybrid  CNN**, limited data, brain segments image} :unlock:
+
+
+### :closed_book: Nature Communications
+> Articles Related to AI4AD
+1. A robust and interpretable machine learning approach using multimodal biological data to predict future pathological tau accumulation [[article](https://www.nature.com/articles/s41467-022-28795-7)] {**multimodal**}
+2. A computational model of neurodegeneration in Alzheimer’s disease [[article](https://www.nature.com/articles/s41467-022-29047-4)]
+
+
 ## 2021 :calendar:
 ### :closed_book: Nature Communications
 > Articles Related to AI4AD
 1. Unified AI framework to uncover deep interrelationships between gene expression and Alzheimer’s disease neuropathologies [[article](https://www.nature.com/articles/s41467-021-25680-7)]
 2. A machine learning approach to brain epigenetic analysis reveals kinases associated with Alzheimer’s disease [[article](https://www.nature.com/articles/s41467-021-24710-8)]
 3. Machine learning identifies candidates for drug repurposing in Alzheimer’s disease [[article](https://www.nature.com/articles/s41467-021-21330-0)]
-4. A deep learning framework identifies dimensional representations of Alzheimer’s Disease from brain structure [[article](https://www.nature.com/articles/s41467-021-26703-z)] {**disease subtypes using clustering in GAN**, **neuroimaging**}
+4. A deep learning framework identifies dimensional representations of Alzheimer’s Disease from brain structure [[article](https://www.nature.com/articles/s41467-021-26703-z)] {**disease subtypes using clustering in GAN**, neuroimaging}
 
 ## 2020 :calendar:
+
+### :closed_book: Nature Communications
+> Articles Related to AI4AD
+1. Multimodal deep learning for Alzheimer’s disease dementia assessment [[article](https://www.nature.com/articles/s41467-022-31037-5)] {**DL**, **CV**}
+
 
 ### :orange_book: Nature Reviews Neurology
 > Articles Related to AI4AD
 1. Applications of machine learning to diagnosis and treatment of neurodegenerative diseases [[article](https://www.nature.com/articles/s41582-020-0377-8)] :page_facing_up:
 
+### :notebook: Nature Biomedical Engineering
+> Articles Related to ML4AD
+1. Amelioration of Alzheimer’s disease pathology by mitophagy inducers identified via machine learning and a cross-species workflow [[article](https://www.nature.com/articles/s41551-021-00819-5)] {**unsupervised learning**, molecular structures, pharmacophore fingerprinting, conformer fingerprinting}
 
 ## 2019 :calendar:
 
