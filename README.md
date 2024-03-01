@@ -28,6 +28,7 @@
 8. Artificial intelligence for dementia—Applied models and digital health [[article](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.13391)] :page_facing_up:
 9. Artificial intelligence for dementia drug discovery and trials optimization [[article](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.13428)] :page_facing_up:
 10. Artificial intelligence for neurodegenerative experimental models [[article](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.13479)] :page_facing_up:
+11. Using blood transcriptome analysis for Alzheimer’s disease diagnosis and patient stratification [[article](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.13691#:~:text=Blood%20transcriptome%20analysis%20accurately%20classifies,of%20the%20plasma%20ATN%20biomarkers.)] {unsupervised clustering analysis, genes, gene modules, cell types}🔖
 
 ## 2022 :calendar:
 
