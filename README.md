@@ -5,14 +5,14 @@
 > * _IF_ >6, to be updated.
 
 ## 2024 :calendar:
-### :green_book: Alzheimer's & Dementia
-> Articles Related to AI4AD
-1. Artificial Intelligence and Technology Collaboratories: Innovating aging research and Alzheimer's care [[article](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.13710)]
 
 ### :blue_book: Science Advances
 > Articles Related to ML4gene
 1. Optimal trade-off control in machine learning–based library design, with application to adeno-associated virus (AAV) for gene therapy [[article](https://www.science.org/doi/full/10.1126/sciadv.adj3786)] 🔖
-
+2. 
+### :green_book: Alzheimer's & Dementia
+> Articles Related to AI4AD
+1. Artificial Intelligence and Technology Collaboratories: Innovating aging research and Alzheimer's care [[article](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.13710)]
 
 ## 2023 :calendar:
 
@@ -32,20 +32,19 @@
 
 ## 2022 :calendar:
 
-### :notebook_with_decorative_cover: npj Digital Medicine
-1. A high-generalizability machine learning framework for predicting the progression of Alzheimer’s disease using limited data [[article](https://www.nature.com/articles/s41746-022-00577-x)] {**hybrid  CNN**, limited data, brain segments image} :unlock:
-
-
 ### :closed_book: Nature Communications
 > Articles Related to AI4AD
 1. A robust and interpretable machine learning approach using multimodal biological data to predict future pathological tau accumulation [[article](https://www.nature.com/articles/s41467-022-28795-7)] {**multimodal**}
 2. A computational model of neurodegeneration in Alzheimer’s disease [[article](https://www.nature.com/articles/s41467-022-29047-4)]
 
+### :notebook_with_decorative_cover: npj Digital Medicine
+1. A high-generalizability machine learning framework for predicting the progression of Alzheimer’s disease using limited data [[article](https://www.nature.com/articles/s41746-022-00577-x)] {**hybrid  CNN**, limited data, brain segments image} :unlock:
 
 ## 2021 :calendar:
+
 ### :closed_book: Nature Communications
 > Articles Related to AI4AD
-1. Unified AI framework to uncover deep interrelationships between gene expression and Alzheimer’s disease neuropathologies [[article](https://www.nature.com/articles/s41467-021-25680-7)] :bookmark:
+1. Unified AI framework to uncover deep interrelationships between gene expression and Alzheimer’s disease neuropathologies [[article](https://www.nature.com/articles/s41467-021-25680-7)] :bookmark: {Multi-task Deep learning}
 2. A machine learning approach to brain epigenetic analysis reveals kinases associated with Alzheimer’s disease [[article](https://www.nature.com/articles/s41467-021-24710-8)]
 3. Machine learning identifies candidates for drug repurposing in Alzheimer’s disease [[article](https://www.nature.com/articles/s41467-021-21330-0)]
 4. A deep learning framework identifies dimensional representations of Alzheimer’s Disease from brain structure [[article](https://www.nature.com/articles/s41467-021-26703-z)] {**disease subtypes using clustering in GAN**, neuroimaging} :bookmark:
@@ -88,4 +87,3 @@
 ## Open datasets
  - [UK Biobank](https://www.ukbiobank.ac.uk): plasma samples from more than 50,000 UK Biobank participants with phenotypic and genotypic data, stratifying on British or Irish, African and South Asian ancestries.
  - [Synapse](https://www.synapse.org/#!Down:0): (currently down)
- - 
