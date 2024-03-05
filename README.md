@@ -16,6 +16,10 @@
 
 ## 2023 :calendar:
 
+### :notebook_with_decorative_cover: Nature Aging
+> Articles related to AD and potential for AI application
+1. Plasma proteomic profiles predict future dementia in healthy adults [[article](https://www.nature.com/articles/s43587-023-00565-0)] 🔖
+
 ### :green_book: Alzheimer's & Dementia
 > Articles Related to AI4AD
 1. Alzheimer’s dementia early diagnosis, characterization, prognosis and treatment decision via a software-as-medical device with an artificial intelligent agent [[article](https://alz-journals.onlinelibrary.wiley.com/doi/abs/10.1002/alz.075674)] {MRI, neuropsychological tests}
@@ -28,7 +32,7 @@
 8. Artificial intelligence for dementia—Applied models and digital health [[article](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.13391)] :page_facing_up:
 9. Artificial intelligence for dementia drug discovery and trials optimization [[article](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.13428)] :page_facing_up:
 10. Artificial intelligence for neurodegenerative experimental models [[article](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.13479)] :page_facing_up:
-11. Using blood transcriptome analysis for Alzheimer’s disease diagnosis and patient stratification [[article](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.13691#:~:text=Blood%20transcriptome%20analysis%20accurately%20classifies,of%20the%20plasma%20ATN%20biomarkers.)] {unsupervised clustering analysis, genes, gene modules, cell types}🔖
+11. Using blood transcriptome analysis for Alzheimer’s disease diagnosis and patient stratification [[article](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.13691#:~:text=Blood%20transcriptome%20analysis%20accurately%20classifies,of%20the%20plasma%20ATN%20biomarkers.)] {unsupervised clustering analysis, genes, gene modules, cell types} 🔖
 
 ## 2022 :calendar:
 
@@ -36,6 +40,10 @@
 > Articles Related to AI4AD
 1. A robust and interpretable machine learning approach using multimodal biological data to predict future pathological tau accumulation [[article](https://www.nature.com/articles/s41467-022-28795-7)] {**multimodal**}
 2. A computational model of neurodegeneration in Alzheimer’s disease [[article](https://www.nature.com/articles/s41467-022-29047-4)]
+
+### :notebook_with_decorative_cover: Nature Aging
+> Articles related to AD and potential for AI application
+1. CSF proteome profiling across the Alzheimer’s disease spectrum reflects the multifactorial nature of the disease and identifies specific biomarker panels [[article](https://www.nature.com/articles/s43587-022-00300-1)] 🔖
 
 ### :notebook_with_decorative_cover: npj Digital Medicine
 1. A high-generalizability machine learning framework for predicting the progression of Alzheimer’s disease using limited data [[article](https://www.nature.com/articles/s41746-022-00577-x)] {**hybrid  CNN**, limited data, brain segments image} :unlock:
