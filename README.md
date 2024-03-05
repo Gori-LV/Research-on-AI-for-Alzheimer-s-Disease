@@ -9,7 +9,7 @@
 ### :blue_book: Science Advances
 > Articles Related to ML4gene
 1. Optimal trade-off control in machine learning–based library design, with application to adeno-associated virus (AAV) for gene therapy [[article](https://www.science.org/doi/full/10.1126/sciadv.adj3786)] 🔖
-2. 
+
 ### :green_book: Alzheimer's & Dementia
 > Articles Related to AI4AD
 1. Artificial Intelligence and Technology Collaboratories: Innovating aging research and Alzheimer's care [[article](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.13710)]
