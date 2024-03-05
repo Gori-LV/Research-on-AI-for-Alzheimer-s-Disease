@@ -16,6 +16,10 @@
 
 ## 2023 :calendar:
 
+### :closed_book: Nature Communications
+> Articles Related to AI4AD
+1. Plasma proteomic profiles predict individual future health risk [[article](https://www.nature.com/articles/s41467-023-43575-7)]🔖
+   
 ### :notebook_with_decorative_cover: Nature Aging
 > Articles related to AD and potential for AI application
 1. Plasma proteomic profiles predict future dementia in healthy adults [[article](https://www.nature.com/articles/s43587-023-00565-0)] 🔖
