@@ -101,6 +101,6 @@
  - Exploring Alzheimer's Disease Prediction with XAI in various Neural Network Models (TENCON'21) [[paper](https://ieeexplore.ieee.org/abstract/document/9707468)]
  - Alzheimer’s Patient Analysis Using Image and Gene Expression Data and Explainable-AI to Present Associated Genes (Transactions on Instrumentation and Measurement'21) [[paper](https://ieeexplore.ieee.org/abstract/document/9521165)]
 
-## Open datasets
+## Datasets :open_file_folder:
  - [UK Biobank](https://www.ukbiobank.ac.uk): plasma samples from more than 50,000 UK Biobank participants with phenotypic and genotypic data, stratifying on British or Irish, African and South Asian ancestries.
  - [Synapse](https://www.synapse.org/#!Down:0): (currently down)
