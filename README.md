@@ -2,7 +2,7 @@
 > :page_facing_up:: review, :unlock:: open data
 
 ## From life science community :pill:
-> * _IF_ >6, AI application on AD or other common conditions are collected, to be updated.
+> * _IF_ >6, works on AI application for human disease are collected, focusing on (but not limited to) AD. To be updated.
 
 ## 2024 :calendar:
 
