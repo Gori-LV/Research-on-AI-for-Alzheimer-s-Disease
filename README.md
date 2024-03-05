@@ -19,7 +19,12 @@
 ### :closed_book: Nature Communications
 > Articles related to AI4AD
 1. Plasma proteomic profiles predict individual future health risk [[article](https://www.nature.com/articles/s41467-023-43575-7)]🔖
-   
+
+### :ledger: Nature Method
+> Articles related to AI4multi-omics
+1. SCENIC+: single-cell multiomic inference of enhancers and gene regulatory networks [[article](https://www.nature.com/articles/s41592-023-01938-4)]]
+2. scGPT: toward building a foundation model for single-cell multi-omics using generative AI [[article](https://www.nature.com/articles/s41592-024-02201-0)]
+
 ### :notebook_with_decorative_cover: Nature Aging
 > Articles related to AD and potential for AI application
 1. Plasma proteomic profiles predict future dementia in healthy adults [[article](https://www.nature.com/articles/s43587-023-00565-0)] 🔖
