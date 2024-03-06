@@ -57,6 +57,10 @@
 ### :notebook_with_decorative_cover: npj Digital Medicine
 1. A high-generalizability machine learning framework for predicting the progression of Alzheimer’s disease using limited data [[article](https://www.nature.com/articles/s41746-022-00577-x)] {**hybrid  CNN**, limited data, brain segments image} :unlock:
 
+### 📖 Patterns
+> Just an intersting one
+1. Quantitative evaluation of explainable graph neural networks for molecular property prediction [[article](https://www.cell.com/patterns/pdf/S2666-3899(22)00260-4.pdf)]
+   
 ## 2021 :calendar:
 
 ### :closed_book: Nature Communications
@@ -102,5 +106,5 @@
  - Alzheimer’s Patient Analysis Using Image and Gene Expression Data and Explainable-AI to Present Associated Genes (Transactions on Instrumentation and Measurement'21) [[paper](https://ieeexplore.ieee.org/abstract/document/9521165)]
 
 ## Datasets :open_file_folder:
- - [UK Biobank](https://www.ukbiobank.ac.uk): plasma samples from more than 50,000 UK Biobank participants with phenotypic and genotypic data, stratifying on British or Irish, African and South Asian ancestries.
+ - [UK Biobank](https://www.ukbiobank.ac.uk) [[article](https://www.nature.com/articles/s41586-018-0579-z.)]: plasma samples from more than 50,000 UK Biobank participants with phenotypic and genotypic data, stratifying on British or Irish, African and South Asian ancestries.
  - [Synapse](https://www.synapse.org/#!Down:0): (currently down)
