@@ -1,4 +1,6 @@
 # Research on AI for Alzheimer's Disease
+> This repository contains research works related to artificial intelligence application in the study of human diseases, focusing on Alzheimer's disease. Works from both life science and computer science communities are collected in addition to remarkable datasets in this area. The repo is updated in real time.
+
 > :page_facing_up:: review, :unlock:: open data
 
 ## From life science community :pill:
@@ -58,8 +60,8 @@
 1. A high-generalizability machine learning framework for predicting the progression of Alzheimer’s disease using limited data [[article](https://www.nature.com/articles/s41746-022-00577-x)] {**hybrid  CNN**, limited data, brain segments image} :unlock:
 
 ### 📖 Patterns
-> Just an intersting one
-1. Quantitative evaluation of explainable graph neural networks for molecular property prediction [[article](https://www.cell.com/patterns/pdf/S2666-3899(22)00260-4.pdf)]
+> Just an interesting one
+1. Quantitative evaluation of explainable graph neural networks for molecular property prediction [[article](https://www.cell.com/patterns/pdf/S2666-3899(22)00260-4.pdf)] :unlock:
    
 ## 2021 :calendar:
 
@@ -106,5 +108,6 @@
  - Alzheimer’s Patient Analysis Using Image and Gene Expression Data and Explainable-AI to Present Associated Genes (Transactions on Instrumentation and Measurement'21) [[paper](https://ieeexplore.ieee.org/abstract/document/9521165)]
 
 ## Datasets :open_file_folder:
- - [UK Biobank](https://www.ukbiobank.ac.uk) [[article](https://www.nature.com/articles/s41586-018-0579-z.)]: plasma samples from more than 50,000 UK Biobank participants with phenotypic and genotypic data, stratifying on British or Irish, African and South Asian ancestries.
+ - [UK Biobank](https://www.ukbiobank.ac.uk) : plasma samples from more than 50,000 UK Biobank participants with phenotypic and genotypic data, stratifying on British or Irish, African and South Asian ancestries.
+> Some updated related articles: [[Science Translational Medicine'24](https://www.science.org/doi/full/10.1126/scitranslmed.adf4428)] [[Nature'18](https://www.nature.com/articles/s41586-018-0579-z.)] [[BJC'22](https://www.nature.com/articles/s41416-022-02053-5)] 
  - [Synapse](https://www.synapse.org/#!Down:0): (currently down)
