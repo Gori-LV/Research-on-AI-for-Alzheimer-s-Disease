@@ -99,6 +99,12 @@
 1. A deep learning model for early prediction of Alzheimer's disease dementia based on hippocampal magnetic resonance imaging data [[article](https://alz-journals.onlinelibrary.wiley.com/doi/10.1016/j.jalz.2019.02.007)]
 
 
+## 2018 :calendar:
+
+### :closed_book: Nature Communications
+> Articles related to ML4AD
+1. Uncovering the heterogeneity and temporal complexity of neurodegenerative diseases with Subtype and Stage Inference [[article](https://www.nature.com/articles/s41467-018-05892-0)]
+
 ## From CS community :computer:
 > * To be updated.
  - Comparison Between Explainable AI Algorithms for Alzheimer’s Disease Prediction Using EfficientNet Models (ICBI'23) [[paper](https://link.springer.com/chapter/10.1007/978-3-031-43075-6_31)]
