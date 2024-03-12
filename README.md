@@ -8,6 +8,10 @@
 
 ## 2024 :calendar:
 
+### 📖 Nature Reviews Neuroscience
+> Articles related to ML4ND
+1. Data-driven modelling of neurodegenerative disease progression: thinking outside the black box [[article](https://www.nature.com/articles/s41583-023-00779-6)]:page_facing_up:
+
 ### :blue_book: Science Advances
 > Articles related to ML4gene
 1. Optimal trade-off control in machine learning–based library design, with application to adeno-associated virus (AAV) for gene therapy [[article](https://www.science.org/doi/full/10.1126/sciadv.adj3786)] 🔖
@@ -30,6 +34,10 @@
 ### :notebook_with_decorative_cover: Nature Aging
 > Articles related to AD and potential for AI application
 1. Plasma proteomic profiles predict future dementia in healthy adults [[article](https://www.nature.com/articles/s43587-023-00565-0)] 🔖
+
+### 📔 Nature Molecular Psychiatry
+> Articles related to ML4dementia
+1. The use of neuroimaging techniques in the early and differential diagnosis of dementia [[articel](https://www.nature.com/articles/s41380-023-02215-8)] {neuroimaging}
 
 ### :green_book: Alzheimer's & Dementia
 > Articles related to AI4AD
