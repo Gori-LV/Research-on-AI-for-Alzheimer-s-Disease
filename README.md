@@ -10,7 +10,7 @@
 
 ### 📖 Nature Reviews Neuroscience
 > Articles related to ML4ND
-1. Data-driven modelling of neurodegenerative disease progression: thinking outside the black box [[article](https://www.nature.com/articles/s41583-023-00779-6)]:page_facing_up:
+1. Data-driven modelling of neurodegenerative disease progression: thinking outside the black box [[article](https://www.nature.com/articles/s41583-023-00779-6)] :page_facing_up:
 
 ### :blue_book: Science Advances
 > Articles related to ML4gene
